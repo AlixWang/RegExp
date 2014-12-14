@@ -1,5 +1,9 @@
 #Start One Project
-	Regular Exprassion
+	
+第一章、正则表达式入门
+
+	基本元字符和一些基础认识
+
 	* 	march all of the words
 	.	march one words
 	?	zero or one 
@@ -8,9 +12,36 @@
 	^	line head
 	$	line foot
 
-	[]	
+	\	转义
 
-	{}
+	|	匹配任意分割的表达式
 
-	()
+	[]	表示一个范围
+
+	{}	代表前一个字段出现的次数
+
+	()	将表达式分隔开来
+
+	\num 引用前一个字段的匹配(反向引用)
+
+	\< \>	单词分割符
+
+
+
+	正则表达式术语汇总
+
+	regex（正则表达式简称正则）
+
+	匹配
+
+	元字符
+
+	流派（flavor）
+
+	子表达式（subexpression）
+
+	字符
+
+
+
 
