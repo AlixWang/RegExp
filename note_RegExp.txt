@@ -1,0 +1,16 @@
+#Start One Project
+	Regular Exprassion
+	* 	march all of the words
+	.	march one words
+	?	zero or one 
+	+	more than one 
+
+	^	line head
+	$	line foot
+
+	[]	
+
+	{}
+
+	()
+
